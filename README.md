@@ -55,7 +55,6 @@ O objetivo deste projeto é **analisar os dados de clientes e cancelamentos** pa
 
 ---
 
-> Gráficos e análises relevantes incluídos no notebook:
 
 - 📌 Distribuição do Churn (%)
 - 📌 Correlação entre Permanência, Conta Diária e Cancelamento
@@ -89,7 +88,9 @@ O objetivo deste projeto é **analisar os dados de clientes e cancelamentos** pa
 - **Revisar a oferta de serviços de Fibra Óptica**, que apresenta alta evasão
 
 ---
+> Gráficos e análises relevantes incluídos no notebook:
 
+![Grafico]()
 ---
 
 ## 📥 Como Executar
