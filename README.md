@@ -90,7 +90,7 @@ O objetivo deste projeto é **analisar os dados de clientes e cancelamentos** pa
 ---
 > Gráficos e análises relevantes incluídos no notebook:
 
-![Grafico]()
+![Grafico](https://github.com/Siiqueira/TelecomX_BR/blob/main/Img/histograma2.png)
 ---
 
 ## 📥 Como Executar
