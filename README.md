@@ -51,7 +51,6 @@ O objetivo deste projeto é **analisar os dados de clientes e cancelamentos** pa
 ├── 📜 README.md  
 |── .gitignore  
 |── LICENSE  
-|── RELEASE_NOTES.md
 
 
 ---
