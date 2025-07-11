@@ -45,9 +45,9 @@ O objetivo deste projeto é **analisar os dados de clientes e cancelamentos** pa
 | └── TelecomX_dicionario.md  
 |  
 │── 📈 Img/  
-| └── Imagens e gráficos  
-|
-├── 📓 TelecomX_BR.ipynb  
+| └── Imagens e gráficos    
+|  
+├── 📓 TelecomX_BR.ipynb    
 ├── 📜 README.md  
 |── .gitignore  
 |── LICENSE  
