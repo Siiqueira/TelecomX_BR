@@ -43,7 +43,7 @@ O objetivo deste projeto é **analisar os dados de clientes e cancelamentos** pa
 ├── 📊 data_base/  
 │ └── Arquivo .json (API)  
 | └── TelecomX_dicionario.md
-|
+|  
 │── 📈 Img/  
 | └── Imagens e gráficos  
 |
