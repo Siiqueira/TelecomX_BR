@@ -112,5 +112,5 @@ MIT License – Livre para uso, estudo e modificação.
 
 ✉️ Contato  
 Desenvolvido por Ellan Alves  
-- analistaellan@gmail.com
+- ynvestellan@gmail.com
 -  [LinkedIn](https://www.linkedin.com/in/ellan-alves-dados/)
