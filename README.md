@@ -1,6 +1,9 @@
 # 📞 TelecomX_BR – Análise de Cancelamento de Clientes (Churn)
 
-📊 Projeto de análise de churn (evasão de clientes) da **TelecomX_BR**, com foco em:
+[TelecomX_BR - Parte II](https://github.com/Siiqueira/TelecomX_BR_II)  
+
+
+## 📊 Projeto de análise de churn (evasão de clientes) da **TelecomX_BR**, com foco em:
 - Identificação dos motivos de cancelamento
 - Análise de perfil dos clientes que cancelam
 - Avaliação do impacto financeiro causado pelo churn
